@@ -21,7 +21,7 @@ The dataset contains 2000 rows and 9 columns of housing data. It includes featur
 
 The best model was the Random Forest Regressor, which achieved the lowest Mean Squared Error (MSE).
 
-![Performance Plot](static\plots\mse_bar_plot.png)
+![Performance Plot](static/plots/mse_bar_plot.png)
 
 ## Installation and Usage
 
@@ -45,10 +45,10 @@ The best model was the Random Forest Regressor, which achieved the lowest Mean S
 ## Visual Outputs
 
 ### KDE Plot
-![KDE Plot](static\plots\price_distribution_kde.png)
+![KDE Plot](static/plots/price_distribution_kde.png)
 
 ### Scatter Plot
-![Scatter Plot](static\plots\scatter_plot_actual_vs_predicted.png)
+![Scatter Plot](static/plots/scatter_plot_actual_vs_predicted.png)
 
 ## Future Improvements
 
